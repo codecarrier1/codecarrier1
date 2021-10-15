@@ -5,19 +5,19 @@
 ## 💪 Overview
 
 <p>
-  <a href="https://github.com/topdev17/topdev17" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=topdev17&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  <a href="https://github.com/dansofter/dansofter" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=dansofter&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
-  <a href="https://github.com/topdev17/topdev17" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=topdev17&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Dev's GitHub Stats" height="180px"/>
+  <a href="https://github.com/dansofter/dansofter" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dansofter&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Dev's GitHub Stats" height="180px"/>
   </a>
   
  </p>
  
  <p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=topdev17&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dansofter&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
  
 <br />
